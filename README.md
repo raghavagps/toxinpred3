@@ -5,7 +5,7 @@ ToxinPred3.0 is developed for predicting, mapping and scanning toxic/non-toxic p
 
 # Standalone
 
-Standalone version of ToxinPred2 is written in python3 and the following libraries are necessary for a successful run:
+Standalone version of ToxinPred3.0 is written in python3 and the following libraries are necessary for a successful run:
 
 - scikit-learn
 - Pandas
