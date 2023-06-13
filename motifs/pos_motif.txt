@@ -1,0 +1,133 @@
+MERCI - Summary of options:
+ -p    train_pos.fa
+ -n    train_neg.fa
+ -k 	  300
+ -fp   35
+ -fn   0
+ -o    pos_motif.txt
+ -l    10000
+ -s    10000
+ -c    NONE
+ -g    0
+ -gl   1
+ -para 0
+
+
+Motifs:
+ G C C S
+ H P A C
+ C C S N
+ C C S H
+ C S H P
+ C C S H P
+ C C H
+ G C C S H
+ C C S N P
+ C S N P
+ G C C S H P
+ C H P
+ C S H P A
+ C S H P A C
+ S H P A
+ S H P A C
+ C C S H P A
+ C C S H P A C
+ G C C S H P A
+ G C C S H P A C
+ N P A C
+ C C P G
+ C C G Y
+ Y D C C
+ D C C S
+ C P G L
+ C C P G L
+ P C C S
+ C C S G W
+ C C S G W C
+ C S G W
+ C S G W C
+ S G W C
+ D C C T
+ N P P C
+ V C C G
+ C C H P
+ P E L C
+ S G K C
+ C C S N P A
+ C C S N P A C
+ C C T G S
+ C S N P A
+ C S N P A C
+ G S C R
+ G V C C G
+ S N P A C
+ C K G K
+ C T G S C
+ C C T G S C
+ C C W
+ C K Y
+ G C C S D
+ C C H P A
+ C C H P A C
+ C H P A
+ C H P A C
+ C P W
+ C R S G
+ G C C S D P
+ M S D I N
+ S D I N
+ C C P N
+ H P A C G
+ T C C G
+ W C K
+ G A K C
+ K G K G A
+ C D D
+ C G Y K
+ G D C
+ M Y D C
+ P P C F
+ C C S Y
+ D C C T G
+ E C R
+ P C F A
+ S C R S G
+ C C G Y K
+ C K G K G
+ C T G S C R
+ E C C S N
+ G S C R S
+ G S C R S G
+ M Y D C C
+ P P C F A
+ R S G K C
+ T G S C R
+ Y P P C
+ C C T G S C R
+ C K G K G A
+ H P E L C
+ P A C S
+ Q I C
+ S D P R
+ V C C G Y
+ A K C S
+ C T G S C R S
+ C T G S C R S G
+ D C C T G S
+ G A K C S
+ G V C C G Y
+ L M Y D
+ L T R G
+ S D P R C
+ T G S C R S
+ T G S C R S G
+ Y D C C T
+ C C T G S C R S
+ C C T G S C R S G
+ C S D P R
+ D C C T G S C
+ D I N A
+ P P C C
+ T R L P
+ Y D C C T G
+ Y D C C T G S
