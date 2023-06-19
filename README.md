@@ -75,19 +75,12 @@ ToxinPred3.0 Package Files
 It contain following files, brief description of these files given below
 
 INSTALLATION  	: Installation instructions
-
 LICENSE       	: License information
-
 merci : This folder contains the program to run MERCI
-
 README.md     	: This file provide information about this package
-
 toxinpred3.py 	: Main python program 
-
 model        : This folder contains model file required for running Machine-learning model
-
 peptide.fa	: Example file contain peptide sequences in FASTA format
-
 peptide.seq	: Example file contain peptide sequences in simple format
 
 
