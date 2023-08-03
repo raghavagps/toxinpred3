@@ -1,7 +1,7 @@
 # Toxinpred3.0
 A method for predicting toxicity of the peptides
 # Introduction
-ToxinPred3.0 is developed for predicting, mapping and scanning toxic/non-toxic peptides. It uses only composition based features for predicting toxic/non-toxic peptides. The final model also deploys a motif-based module which has been implemented using MERCI. More information on ToxinPred3.0 is available from its web server http://webs.iiitd.edu.in/raghava/toxinpred3. Please read/cite the content about toxinpred3 for complete information including algorithm behind the approach.
+ToxinPred3.0 is developed for predicting, mapping and scanning toxic/non-toxic peptides. It uses only composition based features for predicting toxic/non-toxic peptides. The final model also deploys a motif-based module which has been implemented using MERCI. More information on ToxinPred3.0 is available from its web server http://webs.iiitd.edu.in/raghava/toxinpred3. Please read/cite the content about toxinpred3.0 for complete information including algorithm behind the approach.
 
 # Standalone
 
