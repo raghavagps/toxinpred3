@@ -88,4 +88,8 @@ peptide.fa	: Example file contain peptide sequences in FASTA format
 
 peptide.seq	: Example file contain peptide sequences in simple format
 
+## Installation via PIP
+User can install ToxinPred3 via PIP also
+pip install toxinpred3
+
 
