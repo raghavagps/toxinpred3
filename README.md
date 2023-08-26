@@ -3,6 +3,16 @@ A method for predicting toxicity of the peptides
 # Introduction
 ToxinPred3.0 is developed for predicting, mapping and scanning toxic/non-toxic peptides. It uses only composition based features for predicting toxic/non-toxic peptides. The final model also deploys a motif-based module which has been implemented using MERCI. More information on ToxinPred3.0 is available from its web server http://webs.iiitd.edu.in/raghava/toxinpred3. Please read/cite the content about toxinpred3.0 for complete information including algorithm behind the approach.
 
+## PIP Installation
+PIP version is also available for easy installation and usage of this tool. The following command is required to install the package 
+```
+pip install toxinpred3
+```
+To know about the available option for the pip package, type the following command:
+```
+toxinpred3 -h
+```
+
 # Standalone
 
 Standalone version of ToxinPred3.0 is written in python3 and the following libraries are necessary for a successful run:
