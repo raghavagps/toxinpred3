@@ -2,6 +2,9 @@
 ==========
 In order to run this program user should have Python3, ncbi-blast-2.2.29+ (blastp) and library scikit-learn
 
+scikit-learn (Version:1.0.2)
+pip install scikit-learn==1.0.2
+
 2. Download Site
 ============
 https://webs.iiitd.edu.in/raghava/toxinpred3/stand.html
