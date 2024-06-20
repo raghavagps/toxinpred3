@@ -18,6 +18,9 @@ toxinpred3 -h
 Standalone version of ToxinPred3.0 is written in python3 and the following libraries are necessary for a successful run:
 
 - scikit-learn
+```
+ !pip install scikit-learn==1.0.2
+```
 - Pandas
 - Numpy
 
