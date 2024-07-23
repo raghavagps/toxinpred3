@@ -108,6 +108,6 @@ pip install toxinpred3
 
 ## Reference: 
 Rathore AS, Arora A, Choudhury S, Tijare P, Raghava GPS (2024) ToxinPred3.0:An improved method for predicting the toxicity of peptides. 
-Comput Biol Med. 179:108926 . href="https://doi.org/10.1016/j.compbiomed.2024.108926
+Comput Biol Med. 179:108926 . https://doi.org/10.1016/j.compbiomed.2024.108926
 
 Rathore AS, Arora A, Choudhury S, Tijare P, Raghava GPS. ToxinPred3.0:An improved method for predicting the toxicity of peptides. bioRxiv 2023.08.11.552911; doi: https://doi.org/10.1101/2023.08.11.552911
