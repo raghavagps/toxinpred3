@@ -3,37 +3,33 @@ A method for predicting toxicity of the peptides
 # Introduction
 ToxinPred3.0 is developed for predicting, mapping and scanning toxic/non-toxic peptides. It uses only composition based features for predicting toxic/non-toxic peptides. The final model also deploys a motif-based module which has been implemented using MERCI. More information on ToxinPred3.0 is available from its web server http://webs.iiitd.edu.in/raghava/toxinpred3. Please read/cite the content about toxinpred3.0 for complete information including algorithm behind the approach.
 
-## PIP Installation
-PIP version is also available for easy installation and usage of this tool. The following command is required to install the package 
+## Create an Environment
+1- Install miniconda. You need it to create an environment and install the packages this project need. for more information, visit https://www.anaconda.com/docs/getting-started/miniconda/main
+
+use the following command in your terminal to create an environment with python.
+
 ```
-pip install toxinpred3
-```
-To know about the available option for the pip package, type the following command:
-```
-toxinpred3 -h
+conda create -n toxinpred-env python=3.8
 ```
 
-# Standalone
+After installation was complete, use the following command to active (go to) the environment.
 
-Standalone version of ToxinPred3.0 is written in python3 and the following libraries are necessary for a successful run:
-
-- scikit-learn
 ```
- !pip install scikit-learn==1.0.2
+conda activate toxinpred-env
 ```
-- Pandas
-- Numpy
 
-# Important Note
+Now, your terminal knows python3, version 3.8 and now you can run the program, but first, lets install some packages.
 
-- Due to large size of the model file, we have compressed model. 
-- It is crucial to unzip the file before attempting to use the code or model. The compressed file must be extracted to its original form for the code to function properly.
+## Installing packages
 
+In order to install all the packages you need, you can run the following command, or install the packages one by one, if you know how, remember that the project is version sensitive. Hence the right package with wrong version, will not work. The following command, install the right packages with the right version, so you do not have to worry about anything.
 
+```
+pip install -r requirements.txt
+```
 
-**Minimum USAGE** 
-
-To know about the available option for the standalone, type the following command:
+## Minimum USAGE
+To know about the available option for the standalone, type the following command in your terminal after all the packages are installed. remember that the environment you made with conda should be activated, otherwise, you will hit a not found name error:
 ```
 toxinpred3.py -h
 ```
