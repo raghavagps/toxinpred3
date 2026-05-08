@@ -111,3 +111,6 @@ Rathore AS, Arora A, Choudhury S, Tijare P, Raghava GPS (2024) ToxinPred3.0:An i
 Comput Biol Med. 179:108926 . https://doi.org/10.1016/j.compbiomed.2024.108926
 
 Rathore AS, Arora A, Choudhury S, Tijare P, Raghava GPS. ToxinPred3.0:An improved method for predicting the toxicity of peptides. bioRxiv 2023.08.11.552911; doi: https://doi.org/10.1101/2023.08.11.552911
+
+## Zenodo
+https://doi.org/10.5281/zenodo.19877839
